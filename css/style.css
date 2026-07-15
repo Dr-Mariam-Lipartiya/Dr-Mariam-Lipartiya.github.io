@@ -781,7 +781,7 @@ nav .text a img:hover {
 /* contacts */
 
 .contacts {
-    background-image: url(/assets/contacts3.png);
+    background-image: url(../assets/contacts3.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1038,7 +1038,7 @@ nav .text a img:hover {
     }
 
     .home {
-        background-image: url(/assets/photo_1.png);
+        background-image: url(../assets/photo_1.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -1115,7 +1115,7 @@ nav .text a img:hover {
     .about-us .main {
         flex-direction: column;
         gap: 30px;
-        background-image: url(/assets/photo_4.png);
+        background-image: url(../assets/photo_4.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1302,7 +1302,7 @@ nav .text a img:hover {
     .contacts {
         padding: 60px 30px;
         margin: 20px;
-        background-image: url(/assets/contacts2.jpg);
+        background-image: url(../assets/contacts2.jpg);
     }
 
     .contacts .main {
