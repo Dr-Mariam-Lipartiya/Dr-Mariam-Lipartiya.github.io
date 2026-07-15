@@ -197,6 +197,7 @@ nav .text a img:hover {
 .home .main {
     display: flex;
     justify-content: space-between;
+	gap: 50px;
     align-items: center;
     padding-left: 50px;
 }
