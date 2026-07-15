@@ -1054,6 +1054,7 @@ nav .text a img:hover {
 
     .home .main {
         padding: 100px 0 0 20px;
+		max-width: 300px;
     }
 
     .home .main .main-text h1 {
@@ -1216,7 +1217,7 @@ nav .text a img:hover {
     }
 
     .products .box-container .box .image img {
-        height: 150px;
+        height: 200px;
     }
 
     .products .box-container .box .price h3 {
